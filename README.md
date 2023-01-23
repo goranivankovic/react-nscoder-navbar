@@ -20,12 +20,6 @@ npm install react-nscoder-navbar  --save
 
 </br>
 
-[<h2>Link with example</h2>](https://goranivankovic.github.io/react-navbar-hor/)
-
-
-</br>
-
-
 
 
   <img src="https://media.giphy.com/media/PmN6BuVy5VIUzA8zJ0/giphy.gif" heigt="500" width="500" />
@@ -33,6 +27,7 @@ npm install react-nscoder-navbar  --save
   
   <p>
   Responsive navbar with props.</br>
+  Simple and light npm package.</br>
   Technologies use: react,  react-hooks, CSS.</br>
   Don't waste your time building your own navbar, just simple downloaded with npm.</br>
   Required: Node.js, NPM, React.</br>
@@ -143,8 +138,6 @@ export default App
 
 ##
 [developed](https://github.com/goranivankovic)
-
-
 
 
 
