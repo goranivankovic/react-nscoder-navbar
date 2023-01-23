@@ -44,7 +44,7 @@ npm install react-nscoder-navbar  --save
 import React from 'react';
 
 
-
+//Import SideBar from react-nscoder-navbar
 import SideBar from 'react-nscoder-navbar'
 
 //Import Css File in Your Component from node_modules/react-nscoder-navbar/App.css. 
