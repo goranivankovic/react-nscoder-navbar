@@ -14,13 +14,6 @@
 
 
 
-
-```bash
-npm install react-nscoder-navbar
-```
-
-
-
 ```bash
 npm install react-nscoder-navbar  --save
 ```
