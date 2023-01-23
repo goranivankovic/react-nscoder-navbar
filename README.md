@@ -1,6 +1,3 @@
-
-
-
 <h1>React Responsive navbar with props</h1>
 
 
@@ -75,38 +72,41 @@ import '../node_modules/react-nscoder-navbar/App.css'
 function App() {
   return (
     <div>
-      
+  
+  
 <SideBar
    
   
+  //Change Background Color
    
    bgColor="#0D5DCD"
 
 
-  
+   //Change Logo name
     logo="LOGO"
 
 
-  
+   //Change Logo Color
     logoColor='white'
 
 
-  
+  //Change Text color of nav items
    textColor='white'
 
 
-
+  //Change Text color of nav items on hover
    textColorHover="#FFA500"
    
 
-
+  //Change Bar color 
    barsColor="red"
    
  
- 
+ //Change Menu items name Minimum-3 items, Max-6 items. Minimum 3 for responsiveness.
+ //Opitmal is too have 4-6 item names for responsiveness.
    menuItems={["Mission","About","Health","Contact","App","Family"]}
 
-
+//Change Menu items Links. Number of names must be exact number of links. 3 Names == 3 links. 
    menuItemsLinks={["home","about","skills","health","app","contact"]}
 
     />
@@ -150,6 +150,9 @@ export default App
 
 ##
 [developed](https://github.com/goranivankovic)
+
+
+
 
 
 
