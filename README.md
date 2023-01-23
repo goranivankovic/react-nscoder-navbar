@@ -35,6 +35,22 @@ npm install react-nscoder-navbar  --save
   
 
   </p>
+  </br>
+  
+  div>
+  Navbar default position is fixed top </br>
+  Z-index is 10 </br>
+
+   
+    <!-- position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 6vmin; -->
+
+  </div>
+  </br>
+  
   
   
   
