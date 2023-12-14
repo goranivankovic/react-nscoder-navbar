@@ -108,6 +108,9 @@ function App() {
  
  //Change Menu items name Minimum-2 items, Max-6 items. 
  //Opitmal is to have 3-6 names Menu items.
+//Automatic nav routes will be named like menu items
+//Give id of div id of menu items but lowercase
+
    menuItems={[["Home",false],["About",false] ,["Skills",false] ,["Projects",false] ,["Products",true] ,["Contact",true] ,]}
 
 
