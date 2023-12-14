@@ -46,7 +46,7 @@ npm install react-nscoder-navbar  --save
     top: 0%;
     left: 0%;
     width: 100%;
-    height: 6vmin; -->
+     -->
 
   </div>
   </br>
@@ -79,40 +79,40 @@ function App() {
   
   
 <SideBar
-   
-  
+
+
   //Change Background Color
    
-   bgColor="#0D5DCD"
+   bgColor="transparent"
 
 
    //Change Logo name
-    logo="LOGO"
+    logo="Apple"
 
 
    //Change Logo Color
-    logoColor='white'
+    logoColor='grey'
 
 
   //Change Text color of nav items
-   textColor='white'
+   textColor='grey'
 
 
   //Change Text color of nav items on hover
-   textColorHover="#FFA500"
+   textColorHover="red"
    
 
   //Change Bar color 
-   barsColor="red"
+   barsColor="grey"
    
  
- //Change Menu items name Minimum-3 items, Max-6 items. Minimum 3 for responsiveness.
- //Opitmal is too have 4-6 item names for responsiveness.
-   menuItems={["Mission","About","Health","Contact","App","Family"]}
+ //Change Menu items name Minimum-2 items, Max-6 items. 
+ //Opitmal is to have 3-6 names Menu items.
+   menuItems={[["Home",false],["About",false] ,["Skills",false] ,["Projects",false] ,["Products",true] ,["Contact",true] ,]}
 
-//Change Menu items Links. Number of names must be exact number of links. 3 Names == 3 links. 
-   menuItemsLinks={["home","about","skills","health","app","contact"]}
 
+   
+  
     />
 
 
